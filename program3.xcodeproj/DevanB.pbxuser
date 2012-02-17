@@ -1,0 +1,162 @@
+// !$*UTF8*$!
+{
+	050D4B3711385FE300061C3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 34";
+		rLen = 0;
+		rLoc = 768;
+		rType = 0;
+		vrLen = 783;
+		vrLoc = 248;
+	};
+	053FAD1611371DF90025B54F /* program3 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = program3;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	053FAD1911371E180025B54F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	053FAD1A11371E180025B54F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	057189C0113853A500BA035F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057189C1113853A500BA035F /* timecalc.cpp */;
+		name = "timecalc.cpp: 1";
+		rLen = 697;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 693;
+		vrLoc = 0;
+	};
+	057189C1113853A500BA035F /* timecalc.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = timecalc.cpp;
+		path = "/Users/DevanB/Library/Mail Downloads/timecalc.cpp";
+		sourceTree = "<absolute>";
+	};
+	057189C3113853A500BA035F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 18";
+		rLen = 0;
+		rLoc = 225;
+		rType = 0;
+		vrLen = 907;
+		vrLoc = 0;
+	};
+	057189C4113853A500BA035F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057189C5113853A500BA035F /* timecalc.cpp */;
+		name = "timecalc.cpp: 7";
+		rLen = 0;
+		rLoc = 67;
+		rType = 0;
+		vrLen = 655;
+		vrLoc = 42;
+	};
+	057189C5113853A500BA035F /* timecalc.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = timecalc.cpp;
+		path = "/Users/DevanB/Library/Mail Downloads/timecalc.cpp";
+		sourceTree = "<absolute>";
+	};
+	05ABA6B8113ED8BD00120E12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 34";
+		rLen = 0;
+		rLoc = 768;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 248;
+	};
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 053FAD1611371DF90025B54F /* program3 */;
+		activeTarget = 8DD76F620486A84900D96B5E /* program3 */;
+		codeSenseManager = 053FAD1A11371E180025B54F /* Code sense */;
+		executables = (
+			053FAD1611371DF90025B54F /* program3 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					710,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289331352;
+			PBXWorkspaceStateSaveDate = 289331352;
+		};
+		perUserProjectItems = {
+			050D4B3711385FE300061C3C /* PBXTextBookmark */ = 050D4B3711385FE300061C3C /* PBXTextBookmark */;
+			057189C0113853A500BA035F /* PBXTextBookmark */ = 057189C0113853A500BA035F /* PBXTextBookmark */;
+			057189C3113853A500BA035F /* PBXTextBookmark */ = 057189C3113853A500BA035F /* PBXTextBookmark */;
+			057189C4113853A500BA035F /* PBXTextBookmark */ = 057189C4113853A500BA035F /* PBXTextBookmark */;
+			05ABA6B8113ED8BD00120E12 /* PBXTextBookmark */ = 05ABA6B8113ED8BD00120E12 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 053FAD1911371E180025B54F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {888, 672}}";
+			sepNavSelRange = "{768, 0}";
+			sepNavVisRange = "{248, 788}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* program3 */ = {
+		activeExec = 0;
+		executables = (
+			053FAD1611371DF90025B54F /* program3 */,
+		);
+	};
+}
